@@ -1,0 +1,165 @@
+.site-logo-link{
+    display: inline-block;
+    vertical-align: middle;
+}
+.sitenav-list{
+    display: inline-block;
+    vertical-align: middle;
+}
+.sitenav-item{
+    list-style: none;
+    display: inline-block;
+}
+.sitenav-link{
+    text-decoration: none;
+    line-height: 23px;
+    color: #1F1534;
+    opacity: 0.5;
+    list-style: none;
+}
+.site-middle{
+    width: 446px;
+    height: 338px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.header{
+    font-size: 48px;
+}
+.site-link-middle{
+    color: white;
+    background-color: dodgerblue;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+.site-middle-two{
+    display: inline-block;
+    vertical-align: middle;
+}
+.center-theme{
+    text-align: center;
+}
+.dash {
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 2px;
+    background-color: black;
+
+}
+.Text{
+    text-align: center;
+}
+
+.site-center {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.icon-one, .icon-two, .icon-three{
+    width: 350px;
+    height: 354px;
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    margin-right: 10px;
+}
+.icon-four, .icon-five, .icon-six{
+    width: 350px;
+    height: 354px;
+    display: inline-block;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;;
+    padding: 20px;
+    border-radius: 15px;
+    margin-right: 10px;
+}
+.icon-link{
+    text-decoration: none;
+    margin-left: 620px;
+    color: dodgerblue;
+    background-color: white;
+    padding: 15px 10px;
+    border-radius: 35px;
+    border: 1px solid dodgerblue;
+}
+.dash-one{
+    display: block;
+    width: 50px;
+    height: 2px;
+    background-color: black;
+}
+.icon-link-two{
+    text-decoration: none;
+    margin-left: 200px;
+    color: dodgerblue;
+    background-color: white;
+    padding: 15px 10px;
+    border-radius: 35px;
+    border: 1px solid dodgerblue;
+}
+.icon-ten{
+    width: 300px;
+    margin-left: 100px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.dash-two{
+    display: block;
+    width: 50px;
+    height: 2px;
+    background-color: black;
+}
+.icon-maph{
+    width: 300px;
+    margin-right: 100px;
+    margin-left: 40px;
+    display: inline-block;
+    margin-bottom: 30px;
+}
+.icon-link-three{
+    text-decoration: none;
+    margin-left: 200px;
+    color: dodgerblue;
+    background-color: white;
+    padding: 15px 10px;
+    border-radius: 35px;
+    border: 1px solid dodgerblue;
+}
+.img{
+    margin-left: 50px;
+}
+.general{
+    width: 900px;
+    height: 250px;
+    background-color: dodgerblue;
+    border-radius: 30px;
+    margin-left: 80px;
+}
+.sheet{
+    
+    text-align: center;
+}
+.dash-three{
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color: black;
+    margin-left: 420px;
+}
+.qora-brat{
+    margin-left: 50px;
+    border-radius: 50%;
+    display: inline-block;
+}
+.name{
+    font-size: 20px;
+    display: inline-block;
+}
+.text{
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    margin-left: 50px;
+}
